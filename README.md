@@ -15,12 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Im learning programming, from Scotland.
-
-I enjoy building scripts that I dont fully understand how to make, as I enjoy the art of learning.
-If an idea pops into my head, chances are I'll program it, then publish it to get feedback.
-
-**Fun Facts:**
-- I love game development, currently Roblox Studio & UEFN.
-- I like to watch youtube videos about: finance, politics, economics & productivity.
-- Hobbies: programming, walking & gaming. 
