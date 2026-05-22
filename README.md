@@ -6,13 +6,6 @@ I want to be a software enginner when Im older
 
 ### 🚀 Technical Toolkit
 
-<p align="left">
-  <img src="https://jsdelivr.net" height="40" alt="Python" />
-  <img src="https://jsdelivr.net" height="40" alt="Flask" />
-  <img src="https://jsdelivr.net" height="40" alt="Git" />
-</p>
-
-
 - **Backend Development:** Python, Flask, REST APIs
 - **Core Engineering:** Object-Oriented Programming (OOP), Functional Programming, Data Structures
 - **Data & Automation:** Local File Handling, I/O Operations, JSON Parsing, Third-Party API Integration
