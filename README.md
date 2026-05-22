@@ -6,6 +6,10 @@ I want to be a software enginner when Im older
 
 ### 🚀 Technical Toolkit
 
+[![Python](https://shields.io)](https://python.org)
+[![Flask](https://shields.io)](https://palletsprojects.com)
+[![Git](https://shields.io)](https://git-scm.com)
+
 - **Backend Development:** Python, Flask, REST APIs
 - **Core Engineering:** Object-Oriented Programming (OOP), Functional Programming, Data Structures
 - **Data & Automation:** Local File Handling, I/O Operations, JSON Parsing, Third-Party API Integration
